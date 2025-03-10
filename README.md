@@ -30,6 +30,7 @@ Each solution includes:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 ## Tree
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
