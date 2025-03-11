@@ -27,6 +27,7 @@ Each solution includes:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
@@ -85,4 +86,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
