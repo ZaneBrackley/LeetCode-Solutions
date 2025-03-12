@@ -6,9 +6,9 @@ public:
 
         for(int i = 0; i < nums.size(); i++) {
             if(i < k) {
-                nums[i] = nums2[nums.size()-k+i];
+                nums[i] = nums2[nums.size() - k + i];
             } else {
-                nums[i] = nums2[i-k];
+                nums[i] = nums2[i - k];
             }
         }
     }
