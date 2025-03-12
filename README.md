@@ -31,6 +31,7 @@ Each solution includes:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ Each solution includes:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
