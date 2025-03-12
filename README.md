@@ -40,6 +40,7 @@ Each solution includes:
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@ Each solution includes:
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -115,4 +117,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
