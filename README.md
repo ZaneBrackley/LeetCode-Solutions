@@ -35,6 +35,7 @@ Each solution includes:
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0213-house-robber-ii) |
+| [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Two Pointers
@@ -120,6 +121,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Stack
 |  |
@@ -141,4 +143,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
