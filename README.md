@@ -152,4 +152,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
