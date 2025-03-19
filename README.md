@@ -104,20 +104,24 @@ Each solution includes:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0337-house-robber-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Search
