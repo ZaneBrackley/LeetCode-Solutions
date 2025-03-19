@@ -32,6 +32,7 @@ Each solution includes:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0198-house-robber) |
@@ -93,6 +94,7 @@ Each solution includes:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0213-house-robber-ii) |
@@ -157,4 +159,8 @@ Each solution includes:
 | ------- |
 | [0175-combine-two-tables](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0577-employee-bonus) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
