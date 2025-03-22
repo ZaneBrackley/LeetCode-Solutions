@@ -29,6 +29,7 @@ Each solution includes:
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ Each solution includes:
 | ------- |
 | [0012-integer-to-roman](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -137,6 +139,7 @@ Each solution includes:
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
