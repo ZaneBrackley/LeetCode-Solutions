@@ -27,6 +27,7 @@ Each solution includes:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -100,6 +101,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -176,6 +178,7 @@ Each solution includes:
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sliding Window
