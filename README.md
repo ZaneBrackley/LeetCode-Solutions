@@ -44,6 +44,7 @@ Each solution includes:
 | [0209-minimum-size-subarray-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -66,6 +67,7 @@ Each solution includes:
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 ## String
 |  |
 | ------- |
@@ -196,4 +198,8 @@ Each solution includes:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
