@@ -98,6 +98,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -165,6 +166,7 @@ Each solution includes:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## String Matching
 |  |
@@ -202,4 +204,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
