@@ -73,6 +73,7 @@ Each solution includes:
 | ------- |
 | [0012-integer-to-roman](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -212,4 +213,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
