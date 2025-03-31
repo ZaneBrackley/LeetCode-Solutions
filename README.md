@@ -83,6 +83,7 @@ Each solution includes:
 | [0151-reverse-words-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Each solution includes:
 | [0073-set-matrix-zeroes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
