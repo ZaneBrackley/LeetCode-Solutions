@@ -31,6 +31,7 @@ Each solution includes:
 | [0045-jump-game-ii](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -76,6 +77,7 @@ Each solution includes:
 | [0014-longest-common-prefix](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
@@ -181,6 +183,7 @@ Each solution includes:
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 ## Database
 |  |
