@@ -11,13 +11,13 @@ class Solution(object):
         for r in range(9):
             for c in range(9):
                 ch = board[r][c]
-                if ch == '.':
+                if ch == ".":
                     continue
                 box_key = (r // 3) * 3 + (c // 3)
 
                 if ch in rows[r] or ch in cols[c] or ch in boxes[box_key]:
                     return False
-                
+
                 rows[r].add(ch)
                 cols[c].add(ch)
                 boxes[box_key].add(ch)
