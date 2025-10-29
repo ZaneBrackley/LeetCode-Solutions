@@ -95,6 +95,7 @@ Each solution includes:
 | [0012-integer-to-roman](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
 ## Hash Table
@@ -124,6 +125,7 @@ Each solution includes:
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -239,4 +241,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
