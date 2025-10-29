@@ -31,6 +31,7 @@ Each solution includes:
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0068-text-justification) |
@@ -116,6 +117,7 @@ Each solution includes:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -126,6 +128,7 @@ Each solution includes:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
