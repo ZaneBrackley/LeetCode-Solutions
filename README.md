@@ -87,6 +87,7 @@ Each solution includes:
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Each solution includes:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
