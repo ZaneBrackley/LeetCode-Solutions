@@ -170,6 +170,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -228,4 +229,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
