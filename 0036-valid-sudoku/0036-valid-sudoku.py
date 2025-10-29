@@ -1,20 +1,19 @@
-from collections import defaultdict
 class Solution(object):
     def isValidSudoku(self, board):
         """
         :type board: List[List[str]]
         :rtype: bool
         """
-        rows = defaultdict(set)
-        cols = defaultdict(set)
-        boxes = defaultdict(set)
+        rows = [set() for _ in range(9)]
+        cols = [set() for _ in range(9)]
+        boxes = [set() for _ in range(9)]
 
         for r in range(9):
             for c in range(9):
                 ch = board[r][c]
                 if ch == '.':
                     continue
-                box_key = (r // 3, c // 3)
+                box_key = (r // 3) * 3 + (c // 3)
 
                 if ch in rows[r] or ch in cols[c] or ch in boxes[box_key]:
                     return False
