@@ -67,6 +67,7 @@ Each solution includes:
 | [0151-reverse-words-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Each solution includes:
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## String
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## String Matching
 |  |
@@ -251,8 +254,13 @@ Each solution includes:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
