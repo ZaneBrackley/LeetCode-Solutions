@@ -127,6 +127,7 @@ Each solution includes:
 | [0036-valid-sudoku](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -257,6 +258,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Merge Sort
 |  |
 | ------- |
