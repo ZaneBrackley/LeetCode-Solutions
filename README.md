@@ -64,6 +64,7 @@ Each solution includes:
 | [0005-longest-palindromic-substring](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -265,6 +266,7 @@ Each solution includes:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Merge Sort
