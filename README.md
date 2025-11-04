@@ -82,6 +82,7 @@ Each solution includes:
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Each solution includes:
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
