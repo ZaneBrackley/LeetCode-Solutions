@@ -5,18 +5,22 @@ class Solution(object):
         :rtype: bool
         """
         stack = []
+        if len(s) % 2 != 0:
+            return False
 
         for ch in s:
-            if ch in "({[":
+            if ch in "([{":
                 stack.append(ch)
+            elif len(stack) == 0:
+                return False
+            elif ch == ")" and stack.pop() == "(":
+                continue
+            elif ch == "}" and stack.pop() == "{":
+                continue
+            elif ch == "]" and stack.pop() == "[":
+                continue
             else:
-                if len(stack) == 0:
-                    return False
-                open = stack.pop()
-                if open == '(' and ch == ')' or open == '{' and ch == '}' or open == '[' and ch == ']':
-                    continue
-                else: return False
-        if len(stack) == 0:
-            return True
-        return False
-        
+                return False
+        if len(stack) != 0:
+            return False
+        return True
