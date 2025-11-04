@@ -8,13 +8,13 @@ class Solution(object):
             return False
         if x < 10:
             return True
-        x = str(x)
-        n = len(x)
-        left, right = 0, n-1
-        while left <= right:
-            if x[left] == x[right]:
-                left += 1
-                right -= 1
-            else:
-                return False
-        return True
+        oldX = x
+        revX = 0
+        while oldX != 0:
+            num = oldX % 10
+            oldX = oldX // 10
+            revX = revX * 10 + num
+
+        if revX == x:
+            return True
+        return False
