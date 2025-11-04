@@ -13,7 +13,6 @@ class MinStack(object):
             self.mins.append(val)
         else:
             self.mins.append(self.mins[-1])
-        
 
     def pop(self):
         """
@@ -35,7 +34,6 @@ class MinStack(object):
         :rtype: int
         """
         return self.mins[-1]
-        
 
 
 # Your MinStack object will be instantiated and called as such:
