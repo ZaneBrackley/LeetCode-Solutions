@@ -100,6 +100,7 @@ Each solution includes:
 | [0068-text-justification](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
@@ -115,6 +116,7 @@ Each solution includes:
 | [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
 ## Hash Table
@@ -203,6 +205,7 @@ Each solution includes:
 | [0020-valid-parentheses](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
@@ -222,6 +225,7 @@ Each solution includes:
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
 ## Simulation
