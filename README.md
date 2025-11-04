@@ -46,6 +46,7 @@ Each solution includes:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@ Each solution includes:
 | [0013-roman-to-integer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
@@ -215,6 +217,7 @@ Each solution includes:
 | ------- |
 | [0020-valid-parentheses](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0227-basic-calculator-ii) |
