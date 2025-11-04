@@ -6,16 +6,7 @@ class Solution(object):
         """
         seen = set()
 
-        while n != 1:
-            if n in seen:
-                return False
+        while n != 1 and n not in seen:
             seen.add(n)
-        
-            total = 0
-            while n:
-                digit = n % 10
-                total += digit * digit
-                n //= 10
-            n = total
-        
-        return True
+            n = sum(int(i) ** 2 for i in str(n))
+        return n==1
