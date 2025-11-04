@@ -53,6 +53,7 @@ Each solution includes:
 | [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
@@ -86,6 +87,7 @@ Each solution includes:
 | [0049-group-anagrams](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -137,6 +139,7 @@ Each solution includes:
 | [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
 ## Divide and Conquer
