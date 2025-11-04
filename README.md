@@ -246,6 +246,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
@@ -288,6 +289,7 @@ Each solution includes:
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
