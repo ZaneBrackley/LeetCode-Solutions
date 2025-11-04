@@ -5,27 +5,25 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         nums.sort()
-        result = []
         n = len(nums)
+        res = []
 
         for i in range(n):
             if i > 0 and nums[i] == nums[i-1]:
                 continue
-            left, right = i + 1, n - 1
-            while left < right:
-                total = nums[i] + nums[left] + nums[right]
-
+            j, k = i + 1, n - 1
+            while j < k:
+                total = nums[i] + nums[j] + nums[k]
                 if total == 0:
-                    result.append([nums[i], nums[left], nums[right]])
-                    left += 1
-                    while left < right and nums[left] == nums[left-1]:
-                        left += 1
-                
-                    right -= 1
-                    while right > left and nums[right] == nums[right+1]:
-                        right -= 1
+                    res.append([nums[i], nums[j], nums[k]])
+                    j += 1
+                    while j < k and nums[j] == nums[j - 1]:
+                        j += 1
+                    k -= 1
+                    while k > j and nums[k] == nums[k + 1]:
+                        k -= 1
                 elif total < 0:
-                    left += 1
+                    j += 1
                 else:
-                    right -= 1
-        return result
+                    k -= 1
+        return res
