@@ -79,6 +79,7 @@ Each solution includes:
 | [0151-reverse-words-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ Each solution includes:
 | [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -142,6 +144,7 @@ Each solution includes:
 | [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
