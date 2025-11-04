@@ -47,6 +47,7 @@ Each solution includes:
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -107,6 +108,7 @@ Each solution includes:
 | [0066-plus-one](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
 ## Hash Table
@@ -267,4 +269,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
