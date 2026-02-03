@@ -61,6 +61,7 @@ Each solution includes:
 | [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Each solution includes:
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Each solution includes:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Counting Sort
 |  |
 | ------- |
