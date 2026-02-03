@@ -17,7 +17,7 @@ class Solution(object):
 
                 if ch in rows[r] or ch in cols[c] or ch in boxes[box_key]:
                     return False
-
+                
                 rows[r].add(ch)
                 cols[c].add(ch)
                 boxes[box_key].add(ch)
