@@ -252,6 +252,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0273-integer-to-english-words) |
@@ -294,6 +295,7 @@ Each solution includes:
 | ------- |
 | [0002-add-two-numbers](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
