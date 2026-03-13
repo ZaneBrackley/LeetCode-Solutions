@@ -60,6 +60,7 @@ Each solution includes:
 | [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -97,6 +98,7 @@ Each solution includes:
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
@@ -158,6 +160,7 @@ Each solution includes:
 | [0217-contains-duplicate](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ZaneBrackley/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -168,10 +171,12 @@ Each solution includes:
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
@@ -248,6 +253,7 @@ Each solution includes:
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0692-top-k-frequent-words) |
 ## String Matching
@@ -341,5 +347,10 @@ Each solution includes:
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0692-top-k-frequent-words) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
