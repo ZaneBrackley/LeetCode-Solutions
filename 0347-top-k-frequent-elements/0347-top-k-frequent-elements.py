@@ -6,5 +6,5 @@ class Solution(object):
         :rtype: List[int]
         """
         count = Counter(nums)
-        sort = sorted(count, key=lambda x: (-count[x], x) )
-        return sort[:k]
+        sorted_count = sorted(count, key=lambda x: (-count[x], x))
+        return sorted_count[:k]
