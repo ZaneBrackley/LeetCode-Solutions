@@ -2,8 +2,8 @@ class Node:
     def __init__(self, key, value):
         self.key = key
         self.value = value
-        self.prev = None
         self.next = None
+        self.prev = None
 
 class LRUCache(object):
 
@@ -17,7 +17,7 @@ class LRUCache(object):
         self.tail = Node(0,0)
         self.head.next = self.tail
         self.tail.prev = self.head
-
+        
     def remove(self, node):
         prev, next = node.prev, node.next
         prev.next = next
@@ -39,8 +39,7 @@ class LRUCache(object):
             self.remove(self.cache[key])
             self.insert(self.cache[key])
             return self.cache[key].value
-        return -1
-        
+        return -1        
 
     def put(self, key, value):
         """
@@ -57,6 +56,7 @@ class LRUCache(object):
             lru = self.head.next
             self.remove(lru)
             del self.cache[lru.key]
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
