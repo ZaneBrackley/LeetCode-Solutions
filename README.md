@@ -157,6 +157,7 @@ Each solution includes:
 | [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0217-contains-duplicate) |
@@ -320,6 +321,7 @@ Each solution includes:
 | [0023-merge-k-sorted-lists](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
@@ -334,6 +336,7 @@ Each solution includes:
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Memoization
@@ -370,4 +373,8 @@ Each solution includes:
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
