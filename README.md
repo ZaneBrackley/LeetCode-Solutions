@@ -126,6 +126,7 @@ Each solution includes:
 | [0409-longest-palindrome](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Each solution includes:
 | [0224-basic-calculator](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0394-decode-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -364,4 +366,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ZaneBrackley/LeetCode-Daily-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
