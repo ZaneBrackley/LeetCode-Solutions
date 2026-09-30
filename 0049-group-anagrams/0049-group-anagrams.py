@@ -4,14 +4,12 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        groups = {}
+        stack = {}
 
         for word in strs:
-            key = ''.join(sorted(word))
-            if key not in groups:
-                groups[key] = []
-            groups[key].append(word)
-        
-        return list(groups.values())
-
+            key = "".join(sorted(word))
+            if key not in stack:
+                stack[key] = []
+            stack[key].append(word)
+        return list(stack.values())
         
